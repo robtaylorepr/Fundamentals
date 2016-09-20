@@ -1,0 +1,12 @@
+body{
+	background-color: gray;
+}
+
+#number-one {
+	color: red;
+}
+
+.first-class {
+	color: green;
+	font-size:99;
+}
