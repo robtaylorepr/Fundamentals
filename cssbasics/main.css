@@ -1,7 +1,6 @@
 
 .nav-bar{
-	font-size: 168;
-	color: red;
+	font-size: 1.3sem;
 }
 
 
@@ -27,4 +26,14 @@
 	border: 50px 50px 50px 50px;
 	margin: 75px 75px 75px 75px;
 	padding: 20px 20px 20px 20px;
+}
+
+.navbar {
+    min-height: 40px;
+    height: 40px;
+ }
+
+.aaa {
+    height: 40px; 
+    line-height: 38px; 
 }
